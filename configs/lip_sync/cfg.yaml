@@ -1,0 +1,12 @@
+FPS: 20
+VERBOSE: True
+
+WIDTH_OUT : 1080
+HEIGHT_OUT : 1920
+
+PATH:
+  VIDEO: ""
+  AUDIO: ""
+  OUTFILE: ""
+  BACKGROUND: ""
+
